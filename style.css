@@ -1,0 +1,23 @@
+/* This is a CSS comment.*/
+
+
+/* Comments are only to help PEOPLE read a code file. The
+computer ignores them.*/
+
+body{background: lavender}
+h1 {text-align: center;
+  color:indigo;
+}
+div {color:indigo;
+  display: block;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+p {color:maroon;
+  font-size: .67em;
+  font-weight: normal;}
+.image {font-size: .67em;
+}
+.black {color:black;}
+.bold {font-weight: bold;}
+.italic {font-style: italic;}
